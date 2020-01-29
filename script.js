@@ -1,4 +1,4 @@
-if (window.location.href.indexOf("wbCnHQ") > -1 ) {
+if (window.location.href.indexOf("#utm_source=ggl") > -1 ) {
 
 scrollingElement = (document.scrollingElement || document.body)
 
