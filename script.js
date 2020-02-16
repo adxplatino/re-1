@@ -16,6 +16,6 @@ setTimeout(function scrol(){
 
 setTimeout(function scrol(){
 window.scrollTo(0, 2000);
-window.location.href = "http://bit.ly/36wZakL";
+window.location.href = "http://bit.ly/2vzwIl7";
 }, 29000);
 }
